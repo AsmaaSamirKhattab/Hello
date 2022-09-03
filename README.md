@@ -6,7 +6,7 @@
 
 ✳️ Business Intelligence, ✳️ Data Science and ✳️ Data Visualization projects.
 
-I also love working with different technologies & platforms and my current favorite ones are
+###### I also love working with different technologies & platforms and my current favorite ones are
 
 ##### ❤️ SQL 
 ##### ❤️ Power Bi
