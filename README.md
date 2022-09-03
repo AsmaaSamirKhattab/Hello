@@ -1,4 +1,4 @@
-# Hello
+# Hello! 👋
 
 #### I'm a Business Intelligence Analyst have experienced working in Data Analysis and Visualization, Database Adminstrator and Reporting areas.
 
